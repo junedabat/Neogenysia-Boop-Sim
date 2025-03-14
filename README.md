@@ -1,4 +1,6 @@
 # 💜💛 NeoGenysia Boop Sim 👆
+## 📥 DOWNLOAD
+https://github.com/junedabat/Neogenysia-Boop-Sim/releases
 
 ## Characters
 ### 💜🐺 Luna
