@@ -4,7 +4,9 @@ https://github.com/junedabat/Neogenysia-Boop-Sim/releases
 
 ## Characters
 ### 💜🐺 Luna
-<img src="https://github.com/user-attachments/assets/ac3c9d3f-c3c5-4c08-a2d6-548a17253ddc" width="64"/>
+![Unity_AhqT5Ukf25](https://github.com/user-attachments/assets/7aefd7af-7bea-407f-bc68-235a7c998a0c)
+
+<img src="https://github.com/user-attachments/assets/7aefd7af-7bea-407f-bc68-235a7c998a0c" width="64"/>
 
 
 *All characters belong to me*
